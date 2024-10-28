@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# 
+# Start of session at: Sun Sep  8 18:03:55 2024
+# Process ID: 30224
+# Current directory: D:/pantherun/Iot_Display/webtalk
+# Command line: wbtcv.exe -mode batch -source vitis_webtalk.tcl
+# Log file: D:/pantherun/Iot_Display/webtalk/webtalk.log
+# Journal file: D:/pantherun/Iot_Display/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source vitis_webtalk.tcl
